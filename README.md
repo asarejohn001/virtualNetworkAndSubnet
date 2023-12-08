@@ -1,4 +1,4 @@
-# Azure v=Virtual Network And Subnet
+# Azure Virtual Network And Subnet
 Azure Virtual Network and Subnet demonstration
 
 # About this Lab
